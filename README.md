@@ -12,7 +12,7 @@ que optimice las decisiones de inversión en el mercado de acciones
 
 # Análisis exploratorio de datos (EDA)
 
-Este análisis se basa...
+Se analizaron las acciones de AAPL, MSFT, AMZN, GOOGL y META durante 2020-2021. Se observó una tendencia alcista en los precios de cierre ajustado, con una caída notable en marzo de 2020 por la pandemia de COVID-19. Las acciones presentaron alta correlación positiva, lo que es común en empresas del mismo sector o en mercados alcistas generales, esto sugiere que factores macroeconómicos y sentimentales podrían estar afectando a estas acciones de manera similar. Los volúmenes de negociación mostraron variaciones que reflejan eventos específicos del mercado. Este análisis proporciona una base sólida para integrar el análisis de sentimientos y desarrollar modelos predictivos más precisos.
 
 # Estructura de repositorio
 
