@@ -18,20 +18,26 @@ Se analizaron las acciones de AAPL, MSFT, AMZN, GOOGL y META durante 2020-2021. 
 
 El objetivo de este repositorio es implementar las buenas prácticas de acuerdo al paper ["Good Enough Practices in Scientific Computing"](https://arxiv.org/abs/1609.00037) por Greg Wilson, Jennifer Bryan, Karen Cranston, Justin Kitzes, Lex Nederbragt, Tracy K. Teal.
 
-La estructura que queremos que tenga este repositorio es la siguiente:
-
-    ├── LICENSE           <- MIT License.  
+La estructura que tiene nuestro repositorio es la siguiente:
+    
+    ├── data                            <- Carpeta de bases de datos.  
+    |    |── README.md                  <- Descripción general del contenido de la carpeta.
+    |    └── datos_acciones.csv         <- Base de datos.  
+    |      
+    ├── doc                             <- Carpeta de archivos de texto.
+    |    └──  README.md                 <- Descripción de Problematica, Objetivo y Justificación del proyecto.
+    |
+    ├── results                         <- Carpeta de resultados.  
+    |    └──  README.md                 <- Descripción de los resultados del análisis EDA.
     |  
-    ├── README.md         <- Main Readme file with the description of the project.  
+    ├── src                             <- Carpeta de archivos de código.    
+    |    |── AFI.ipynb                  <- Archivo notebook de código (Análisis EDA).
+    |    └── README.md                  <- Descripción general del contenido del notebook.
     |  
-    ├── CONTRIBUTING.md   <- Steps yo contribute to the project.  
+    ├── CITATION.md                     <- Información sobre como citar este trabajo.  
     |  
-    ├── CITATION.md       <- Way to cite the project.  
+    ├── CONTRIBUTING.md                 <- Información para contribuir en este trabajo.  
+    |   
+    ├── LICENSE                         <- Información sobre la Licencia: MIT License.  
     |  
-    ├── data              <- Original data bases.  
-    |  
-    ├── doc               <- Archivos de texto.  
-    |  
-    ├── results           <- Clean and analyzes data bases.  
-    |  
-    └── src               <- Coding files.  
+    ├── README.md                       <- Información general del proyecto.
