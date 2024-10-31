@@ -1,14 +1,13 @@
 # Desarrollo de un Asistente Financiero Inteligente
 
-En este repositorio se pretende desarrollar un Asistente Financiero Inteligente para la Optimización de Decisiones de Inversión en el Mercado de Acciones
+En este repositorio se pretende desarrollar un Asistente Financiero Inteligente para la Optimización de Decisiones de Inversión en el Mercado de Acciones.
 
 # Abstract
 
 En el contexto actual de los mercados financieros, la cantidad de información disponible para los inversores es abrumadora. La toma de decisiones de inversión eficiente requiere no solo del análisis de datos históricos, sino también de la interpretación del sentimiento del mercado reflejado en noticias, redes sociales y otros medios de comunicación. La inteligencia artificial (IA) y, específicamente, el 
 procesamiento del lenguaje natural (PLN), ofrecen herramientas poderosas para abordar este desafío.
 
-El presente proyecto propone el desarrollo de un asistente financiero inteligente 
-que optimice las decisiones de inversión en el mercado de acciones
+El presente proyecto propone el desarrollo de un asistente financiero inteligente que optimice las decisiones de inversión en el mercado de acciones.
 
 # Análisis exploratorio de datos (EDA)
 
