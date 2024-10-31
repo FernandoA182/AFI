@@ -8,4 +8,4 @@ Para este trabajo y análisis EDA se extrageron los datos de 5 empresas que tien
 4. Alphabet Inc. (GOOGL)
 5. Meta Platforms, Inc. (META) (anteriormente Facebook)
   
-El notebook "AFI.ipynb" adjunto en la carpeta src, además de contener el análisis EDA, tambien explica la descarga de estos datos provenientes de Yahoo Finance, mediante la librería yfinance, su restructuración, y como fueron guardados. Además de su descripción, información general del data frame, estadisticas descriptivas, entre otros aspectos reelevantes de estos datos.
+El notebook "AFI.ipynb" adjunto en la carpeta src, además de contener el análisis EDA, tambien explica la descarga de estos datos provenientes de Yahoo Finance, mediante la librería "yfinance", su restructuración, y como fueron guardados. Además de su descripción, información general del data frame, estadisticas descriptivas, entre otros aspectos reelevantes de estos datos.
