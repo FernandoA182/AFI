@@ -1,7 +1,7 @@
 # Carpeta con bases de datos originales
 
 Datos del archivo "datos_acciones.csv" adjunto en esta carpeta data.  
-Para este trabajo y análisis EDA se extrageron los datos de 5 empresas que tienden a estar entre las mas capidalizadas, las cuales son:  
+Para este trabajo y análisis EDA se extrageron los datos de 5 empresas que tienden a estar entre las más capidalizadas, las cuales son:  
 1. Apple Inc. (AAPL)
 2. Microsoft Corporation (MSFT)
 3. Amazon.com, Inc. (AMZN)
