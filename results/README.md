@@ -1,6 +1,6 @@
-📊# Resultados del análisis EDA
+# Resultados del análisis EDA
 
-🔍## Conclusiones y Observaciones
+## Conclusiones y Observaciones 🔍
 📝Descripción de los Datos:
   * El conjunto de datos contiene información diaria de precios y volúmenes de las 5 acciones más capitalizadas entre 2020 y 2021.
   * Los atributos principales son: 'Open', 'High', 'Low', 'Close', 'Adj Close' y 'Volume'.
@@ -23,13 +23,13 @@
 * Modelado Predictivo:
   * Utilizar los datos procesados para desarrollar modelos que puedan predecir movimientos futuros.
 
-📝## Notas Finales  
+## Notas Finales📝
 Este EDA nos brinda una comprensión inicial de los datos históricos de las acciones más capitalizadas. Nos prepara para etapas posteriores del proyecto donde integraremos análisis más complejos para mejorar la toma de decisiones de inversión.
 
 
-📊# Resultados del análisis de texto y sentimientos  
+# Resultados del análisis de texto y sentimientos  
 
-📝 ## Análisis de Frecuencia de Palabras
+## Análisis de Frecuencia de Palabras 📝  
 ![Palabras más comunes en Títulos](https://github.com/user-attachments/assets/6ca0f704-31bb-47bf-9310-ae8427b2d69f)
 
 🔑 **Hallazgos Clave**  
@@ -40,7 +40,7 @@ Este EDA nos brinda una comprensión inicial de los datos históricos de las acc
 🎮 "nvidia" aparece frecuentemente, sugiriendo su importancia en el ecosistema tecnológico  
 
 
-📈 ## Tendencias de sentimiento
+## Tendencias de sentimiento 📈  
 ![Tendencias de Sentimiento por Empresa](https://github.com/user-attachments/assets/413b24ad-70f5-4850-a848-f52fa01b8c8c)
 
 📊Alta volatilidad el 29 de noviembre para todas las empresas  
@@ -53,7 +53,7 @@ Este EDA nos brinda una comprensión inicial de los datos históricos de las acc
 📅 El período del 21 al 28 de noviembre muestra movimientos más suaves.  
 
 
-📊 ## Distribución de Sentimiento
+## Distribución de Sentimiento 📊   
 ![Distribución de Sentimiento por Empresa](https://github.com/user-attachments/assets/70857b9f-51a8-415d-b619-bedb26a51d65)
 
 
