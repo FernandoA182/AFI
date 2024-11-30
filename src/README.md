@@ -13,44 +13,45 @@ Adicional, en la parte final del notebook se agregó el código para realizar we
 
 Archivo "sentiment_analysis.py"
 Este script realiza un análisis avanzado de sentimiento sobre noticias financieras de empresas tecnológicas. Utiliza técnicas de procesamiento de lenguaje natural (NLP) y visualización de datos para extraer insights significativos de los títulos de las noticias.
-🛠️ Funcionalidades Principales
-Preprocesamiento de Texto
 
-🔍 Tokenización de texto
-🗑️ Eliminación de stopwords
-📝 Limpieza de puntuación y números
-📊 Normalización de texto
+###Funcionalidades Principales
+**Preprocesamiento de Texto**
 
-Análisis de Sentimiento
+- Tokenización de texto
+- Eliminación de stopwords
+- Limpieza de puntuación y números
+- Normalización de texto
 
-📈 Cálculo de polaridad del sentimiento usando TextBlob
-👥 Análisis por empresa
-📊 Tendencias temporales de sentimiento
-📉 Distribución de sentimientos
+**Análisis de Sentimiento** 
 
-Análisis de Entidades
+- Cálculo de polaridad del sentimiento usando TextBlob
+- Análisis por empresa
+- Tendencias temporales de sentimiento
+- Distribución de sentimientos
 
-🏢 Extracción de entidades nombradas usando spaCy
-📊 Frecuencia de menciones por empresa
-🔍 Identificación de entidades relevantes
+**Análisis de Entidades**
 
-Visualizaciones Interactivas
+- Extracción de entidades nombradas usando spaCy
+- Frecuencia de menciones por empresa
+- Identificación de entidades relevantes
 
-📈 Tendencias de sentimiento por empresa
-📊 Distribución de sentimiento por empresa
-📋 Gráfico de frecuencia de palabras comunes
+**Visualizaciones Interactivas**  
 
-🔧 Dependencias
+- Tendencias de sentimiento por empresa
+- Distribución de sentimiento por empresa
+- Gráfico de frecuencia de palabras comunes
 
-pandas
-numpy
-spacy
-altair
-textblob
-nltk
+**Dependencias**
 
-📄 Resultados
-El script genera:
+- pandas
+- numpy
+- spacy
+- altair
+- textblob
+- nltk
+
+📄 **Resultados**
+El script genera:  
 
 📊 Visualizaciones interactivas en formato HTML
 📝 Resumen estadístico por empresa
