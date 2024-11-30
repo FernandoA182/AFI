@@ -14,15 +14,7 @@ El notebook "AFI.ipynb" adjunto en la carpeta src, además de contener el análi
 
 📰 **Web Scraping de Noticias**  
 El siguiente archivo adjunto en esta carpeta, llamado "tech_news.csv", es el segundo resultado de ejecutar el notebook "AFI.ipynb", en el cual se realiza  web scraping que obtiene noticias de sitios como Finviz:
-Este script recopiló noticias sobre las empresas tecnológicas:
-
-🏢 **Empresas Analizadas:**
-
-🍎 AAPL (Apple)  
-💻 MSFT (Microsoft)  
-📦 AMZN (Amazon)  
-🔍 GOOGL (Google)  
-👥 META (Meta/Facebook)  
+Este script recopiló noticias sobre las empresas tecnológicas anteriormente mencionadas.
 
 📱 **Fuentes de Datos:**
 
