@@ -53,15 +53,15 @@ Este script realiza un análisis avanzado de sentimiento sobre noticias financie
 📄 **Resultados**  
 El script genera:    
 
-📊 Visualizaciones interactivas en formato HTML
-📝 Resumen estadístico por empresa
-📈 Análisis de tendencias
-🔍 Identificación de patrones en las noticias
+📊 Visualizaciones interactivas en formato HTML  
+📝 Resumen estadístico por empresa  
+📈 Análisis de tendencias  
+🔍 Identificación de patrones en las noticias  
 
-📂 Archivos Generados
+📂 Archivos Generados  
 
-sentiment_trend_interactive.html
-sentiment_dist_interactive.html
-word_frequency_interactive.html
+sentiment_trend_interactive.html  
+sentiment_dist_interactive.html  
+word_frequency_interactive.html  
 
 Este análisis proporciona insights valiosos sobre la percepción de las empresas tecnológicas en las noticias y ayuda a identificar patrones y tendencias en la cobertura mediática.
