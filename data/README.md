@@ -9,20 +9,20 @@ Para este trabajo y análisis EDA se extrageron los datos de 5 empresas que tien
 - 🔍 Alphabet Inc. (GOOGL)
 - 👥 Meta Platforms, Inc. (META) - anteriormente Facebook
 
-- 📊 **Análisis y Procesamiento** 
+📊 **Análisis y Procesamiento** 
 El notebook "AFI.ipynb" adjunto en la carpeta src, además de contener el análisis EDA, tambien explica la descarga de estos datos provenientes de Yahoo Finance, mediante la librería "yfinance", su restructuración, y como fueron guardados. Además de su descripción, información general del data frame, estadisticas descriptivas, entre otros aspectos reelevantes de estos datos.
 
-- 📰 **Web Scraping de Noticias**
+📰 **Web Scraping de Noticias**
 El siguiente archivo adjunto en esta carpeta, llamado "tech_news.csv", es el segundo resultado de ejecutar el notebook "AFI.ipynb", en el cual se realiza  web scraping que obtiene noticias de sitios como Finviz:
 Este script recopiló noticias sobre las empresas tecnológicas:
 
-- 🏢 **Empresas Analizadas:**
+🏢 **Empresas Analizadas:**
 
-- 🍎 AAPL (Apple)
-- 💻 MSFT (Microsoft)
-- 📦 AMZN (Amazon)
-- 🔍 GOOGL (Google)
-- 👥 META (Meta/Facebook) 
+🍎 AAPL (Apple)
+💻 MSFT (Microsoft)  
+📦 AMZN (Amazon)  
+🔍 GOOGL (Google)  
+👥 META (Meta/Facebook)  
 
 📱 **Fuentes de Datos:**
 
