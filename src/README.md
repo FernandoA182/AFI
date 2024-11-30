@@ -50,8 +50,8 @@ Este script realiza un análisis avanzado de sentimiento sobre noticias financie
 - textblob
 - nltk
 
-📄 **Resultados**
-El script genera:  
+📄 **Resultados**  
+El script genera:    
 
 📊 Visualizaciones interactivas en formato HTML
 📝 Resumen estadístico por empresa
