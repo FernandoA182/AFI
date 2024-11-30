@@ -8,7 +8,7 @@ Es el notebook que contiene los pasos de la descarga y guadado de datos, así ta
 * Visualización de datos
 * Referencias
 
-Adicional, en la parte final del notebook se agregó el código para realizar web scraping de fuentes de noticias sobre las mepresas que estamos analizando. 
+Adicional, en la parte final del notebook se agregó el código para realizar web scraping de fuentes de noticias sobre las empresas que estamos analizando. 
 
 
 Archivo "sentiment_analysis.py"
