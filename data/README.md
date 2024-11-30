@@ -18,7 +18,7 @@ Este script recopiló noticias sobre las empresas tecnológicas:
 
 🏢 **Empresas Analizadas:**
 
-🍎 AAPL (Apple)
+🍎 AAPL (Apple)  
 💻 MSFT (Microsoft)  
 📦 AMZN (Amazon)  
 🔍 GOOGL (Google)  
