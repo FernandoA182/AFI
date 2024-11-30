@@ -29,6 +29,16 @@ Este EDA nos brinda una comprensión inicial de los datos históricos de las acc
 
 # Resultados del análisis de texto y sentimientos  
 
+## Análisis de Frecuencia de Palabras
+![Palabras más comunes en Títulos](https://github.com/user-attachments/assets/6ca0f704-31bb-47bf-9310-ae8427b2d69f)
+
+La palabra "ai" es la más frecuente, reflejando el dominio de la Inteligencia Artificial en las noticias  
+"Meta" y "Motley Fool" aparecen con alta frecuencia, indicando cobertura significativa  
+Palabras financieras como "stock" e "insider" tienen presencia notable  
+Las principales empresas (apple, microsoft, google, amazon) muestran frecuencias equilibradas  
+"nvidia" aparece frecuentemente, sugiriendo su importancia en el ecosistema tecnológico  
+
+
 ## Tendencias de sentimiento
 ![Tendencias de Sentimiento por Empresa](https://github.com/user-attachments/assets/413b24ad-70f5-4850-a848-f52fa01b8c8c)
 
@@ -42,6 +52,19 @@ GOOGL mantiene una tendencia moderada
 El período del 21 al 28 de noviembre muestra movimientos más suaves.  
 
 
+## Distribución de Sentimiento
+![Distribución de Sentimiento por Empresa](https://github.com/user-attachments/assets/70857b9f-51a8-415d-b619-bedb26a51d65)
+
+
+Todas las empresas muestran una distribución centrada en valores positivos  
+
+**Características por empresa:**  
+
+AMZN: Mayor mediana y dispersión hacia valores positivos  
+AAPL: Distribución simétrica con valores atípicos positivos  
+MSFT: Distribución similar a AAPL pero más compacta  
+GOOGL: Menor dispersión, sentimiento más consistente  
+META: Distribución más baja pero con valores atípicos en ambas direcciones  
 
 
 
