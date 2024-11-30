@@ -30,7 +30,7 @@ Este script recopiló noticias sobre las empresas tecnológicas:
 📈 MarketWatch  
 📰 Otros sitios de noticias financieras  
 
-📄 **Estructura del Dataset:**
+📄 **Estructura del Dataset:**  
 El script guardó los datos en tech_news.csv con:
 
 🏷️ Ticker (símbolo de la empresa)  
