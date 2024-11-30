@@ -14,7 +14,7 @@ Adicional, en la parte final del notebook se agregó el código para realizar we
 Archivo "sentiment_analysis.py"
 Este script realiza un análisis avanzado de sentimiento sobre noticias financieras de empresas tecnológicas. Utiliza técnicas de procesamiento de lenguaje natural (NLP) y visualización de datos para extraer insights significativos de los títulos de las noticias.
 
-###Funcionalidades Principales
+### Funcionalidades Principales
 **Preprocesamiento de Texto**
 
 - Tokenización de texto
