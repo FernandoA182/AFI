@@ -25,3 +25,17 @@
 
 ## Notas Finales  
 Este EDA nos brinda una comprensión inicial de los datos históricos de las acciones más capitalizadas. Nos prepara para etapas posteriores del proyecto donde integraremos análisis más complejos para mejorar la toma de decisiones de inversión.
+
+
+# Resultados del análisis de texto y sentimientos  
+
+## Tendencias de sentimiento
+![Tendencias de Sentimiento por Empresa](https://github.com/user-attachments/assets/71e0c858-fde9-48cc-adb5-7a920165f742)
+
+
+
+
+
+
+
+
