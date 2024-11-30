@@ -30,7 +30,17 @@ Este EDA nos brinda una comprensión inicial de los datos históricos de las acc
 # Resultados del análisis de texto y sentimientos  
 
 ## Tendencias de sentimiento
-![Tendencias de Sentimiento por Empresa](https://github.com/user-attachments/assets/71e0c858-fde9-48cc-adb5-7a920165f742)
+![Tendencias de Sentimiento por Empresa](https://github.com/user-attachments/assets/413b24ad-70f5-4850-a848-f52fa01b8c8c)
+
+Alta volatilidad el 29 de noviembre para todas las empresas  
+
+**Patrones de sentimiento:**  
+META muestra la tendencia más estable pero generalmente más baja  
+AMZN exhibe los picos más altos de sentimiento positivo  
+AAPL y MSFT muestran patrones similares de volatilidad  
+GOOGL mantiene una tendencia moderada  
+El período del 21 al 28 de noviembre muestra movimientos más suaves.  
+
 
 
 
