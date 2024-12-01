@@ -53,7 +53,6 @@ Cada empresa mantiene una huella distintiva en términos de cobertura mediática
 Las implicaciones para el sector son sustanciales: la IA se ha convertido en el eje central de la narrativa tecnológica, mientras que el análisis financiero mantiene una influencia significativa en la percepción pública de estas empresas. Aunque se observa una volatilidad considerable en la percepción de las compañías, la tendencia general se mantiene positiva, sugiriendo una confianza subyacente en el sector tecnológico a pesar de las fluctuaciones a corto plazo. Este panorama refleja la madurez del sector y su capacidad para mantener el optimismo del mercado incluso en un entorno informativo altamente dinámico.
 </div>
 
-Los resultados detallados de este análisis se pueden encontrar en la carpeta resultados.  
 
 ## Aspectos Cubiertos del Proyecto
 
@@ -90,15 +89,15 @@ En el notebook "AFI.ipynb", a partir del punto 6, se realiza otro web scraping y
 - Análisis de sentimientos
   - Extracción de noticias mediante web scraping
 
+**Dónde encontrar información detallada de este proyecto**
+* Los resultados detallados de este análisis se pueden encontrar en la carpeta resultados.  
+* Para más detalles sobre la implementación y resultados específicos, consulte los notebooks correspondientes en la carpeta src.
 
-
-Para más detalles sobre la implementación y resultados específicos, consulte los notebooks correspondientes en la carpeta src.
-
-
+**Colaboración en el proyecto**  
+Este proyecto forma parte de la Maestría en Ciencias de los Datos de la Universidad de Guadalajara y constituye el proyecto final de la asignatura Desarrollo de Proyecto I impartida por el Mtro. Cuspinera Contreras.  
+Se desarrolló el proyecto titulado "Asistente Financiero Inteligente", el cual está siendo elaborado por Fernando Arévalo como tema de tesis. Asimismo, contó con la valiosa colaboración de Carmen Herrera, quien realizó importantes aportes en el análisis.
 
 # Estructura de repositorio
-
-El objetivo de este repositorio es implementar las buenas prácticas de acuerdo al paper ["Good Enough Practices in Scientific Computing"](https://arxiv.org/abs/1609.00037) por Greg Wilson, Jennifer Bryan, Karen Cranston, Justin Kitzes, Lex Nederbragt, Tracy K. Teal.
 
 La estructura que tiene nuestro repositorio es la siguiente:
     
