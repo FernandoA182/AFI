@@ -27,9 +27,9 @@ Se realizó web scraping de noticias financieras a través de Finviz, enfocándo
 
 Se desarrolló un analizador avanzado de texto que procesa las noticias extraídas utilizando:  
 
-- TextBlob para análisis de sentimiento
-- SpaCy para procesamiento de lenguaje natural
-- Altair para visualizaciones interactivas
+- `TextBlob` para análisis de sentimiento
+- `SpaCy` para procesamiento de lenguaje natural
+- `Altair` para visualizaciones interactivas
 
 **Características principales del análisis:**  
 
@@ -56,8 +56,8 @@ Las implicaciones para el sector son sustanciales: la IA se ha convertido en el 
 
 ## Aspectos Cubiertos del Proyecto
 
-- Análisis de texto avanzado con spaCy/NLTK
-- Visualizaciones interactivas con Altair
+- Análisis de texto avanzado con `spaCy/NLTK`
+- Visualizaciones interactivas con `Altair`
 - Análisis de sentimiento
 - Procesamiento de datos estructurados
 - Extracción de entidades y relaciones
