@@ -3,8 +3,8 @@
 ## Conclusiones y Observaciones 🔍
 📝Descripción de los Datos:
   * El conjunto de datos contiene información diaria de precios y volúmenes de las 5 acciones más capitalizadas entre 2020 y 2021.
-  * Los atributos principales son: 'Open', 'High', 'Low', 'Close', 'Adj Close' y 'Volume'.
-🧹 Limpieza de Datos y Valores Faltantes:
+  * Los atributos principales son: 'Open', 'High', 'Low', 'Close', 'Adj Close' y 'Volume'.  
+🧹 Limpieza de Datos y Valores Faltantes:  
   * Se eliminaron filas con valores faltantes en la columna 'Value' para asegurar la integridad del análisis.
   * No se encontraron duplicados después de la limpieza inicial.
  📈Visualizaciones:
