@@ -84,16 +84,16 @@ En el notebook "AFI.ipynb", a partir del punto 6, se realiza otro web scraping y
    - **Construcción de un Modelo Predictivo**
    - **Desarrollo de una Plataforma para Usuarios**
 
-**Flujo de Trabajo** 
+## Flujo de Trabajo
 - Análisis EDA
 - Análisis de sentimientos
   - Extracción de noticias mediante web scraping
 
-**Dónde encontrar información detallada de este proyecto**
+## Dónde encontrar información detallada de este proyecto
 * Los resultados detallados de este análisis se pueden encontrar en la carpeta resultados.  
 * Para más detalles sobre la implementación y resultados específicos, consulte los notebooks correspondientes en la carpeta src.
 
-**Colaboración en el proyecto**  
+## Colaboración en el proyecto  
 Este proyecto forma parte de la Maestría en Ciencias de los Datos de la Universidad de Guadalajara y constituye el proyecto final de la asignatura Desarrollo de Proyecto I impartida por el Mtro. Cuspinera Contreras.  
 Se desarrolló el proyecto titulado "Asistente Financiero Inteligente", el cual está siendo elaborado por Fernando Arévalo como tema de tesis. Asimismo, contó con la valiosa colaboración de Carmen Herrera, quien realizó importantes aportes en el análisis.
 
