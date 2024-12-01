@@ -64,6 +64,7 @@ Los resultados detallados de este análisis se pueden encontrar en la carpeta re
 
 **Flujo de Trabajo**
 
+- Análisis EDA
 - Extracción de noticias mediante web scraping
 - Preprocesamiento de textos
 - Análisis de sentimiento
