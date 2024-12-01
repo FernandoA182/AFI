@@ -1,5 +1,7 @@
 # Desarrollo de un Asistente Financiero Inteligente
 
+![DALL·E 2024-12-01 02 02 40 - A modern, professional LinkedIn post illustration for a financial AI project  The central focus is a futuristic financial assistant hologram analyzing](https://github.com/user-attachments/assets/9e2e2983-7ac6-4e68-aef5-faefe051603d)
+
 En este repositorio se pretende desarrollar un Asistente Financiero Inteligente para la Optimización de Decisiones de Inversión en el Mercado de Acciones.
 
 # Abstract
