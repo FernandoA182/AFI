@@ -44,12 +44,12 @@ Este script realiza un análisis avanzado de sentimiento sobre noticias financie
 
 **Dependencias**
 
-- pandas
-- numpy
-- spacy
-- altair
-- textblob
-- nltk
+- `pandas`
+- `numpy`
+- `spacy`
+- `altair`
+- `textblob`
+- `nltk`
 
 📄 **Resultados**  
 El script genera:    
