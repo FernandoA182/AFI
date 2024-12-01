@@ -22,15 +22,17 @@ La estructura que tiene nuestro repositorio es la siguiente:
     ├── data                            <- Carpeta de bases de datos.  
     |    |── README.md                  <- Descripción general del contenido de la carpeta.
     |    └── datos_acciones.csv         <- Base de datos.  
+    |    └── tech_news.csv              <- Base de datos para análisis de texto y sentimientos.  
     |      
     ├── doc                             <- Carpeta de archivos de texto.
     |    └──  README.md                 <- Descripción de Problematica, Objetivo y Justificación del proyecto.
     |
     ├── results                         <- Carpeta de resultados.  
-    |    └──  README.md                 <- Descripción de los resultados del análisis EDA.
+    |    └──  README.md                 <- Descripción de los resultados del análisis EDA, análisis de texto y de sentimientos.
     |  
     ├── src                             <- Carpeta de archivos de código.    
-    |    |── AFI.ipynb                  <- Archivo notebook de código (Análisis EDA).
+    |    |── AFI.ipynb                  <- Archivo notebook de código (Análisis EDA, Web scraping).
+    |    |── sentiment_analysis.py      <- Archivo de código para análisis de sentimiento y visualización de noticias de empresas/acciones tecnológicas.
     |    └── README.md                  <- Descripción general del contenido del notebook.
     |  
     ├── CITATION.md                     <- Información sobre como citar este trabajo.  
