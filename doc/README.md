@@ -1,6 +1,6 @@
 # Desarrollo de un Asistente Financiero Inteligente para la Optimización de Decisiones de Inversión en el Mercado de Acciones
 
-## Problematica
+## Problemática
 
 Los inversores enfrentan dificultades para tomar decisiones informadas en el mercado de acciones debido a la sobrecarga de información y la falta de herramientas que integren eficientemente datos históricos con el análisis de sentimientos del mercado. Esta situación impide procesar y analizar rápidamente grandes volúmenes de datos cuantitativos y cualitativos, afectando la precisión y efectividad de las inversiones. El proyecto busca solucionar esto mediante un asistente financiero que combina ambos tipos de análisis para mejorar las recomendaciones de inversión.
 
