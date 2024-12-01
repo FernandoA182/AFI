@@ -24,20 +24,22 @@ Se realizó web scraping de noticias financieras a través de Finviz, enfocándo
 - URL de la noticia
 
 **Análisis de Sentimientos**  
+
 Se desarrolló un analizador avanzado de texto que procesa las noticias extraídas utilizando:  
 
 - TextBlob para análisis de sentimiento
 - SpaCy para procesamiento de lenguaje natural
 - Altair para visualizaciones interactivas
 
-**Características principales del análisis:**
+**Características principales del análisis:**  
 
 - Cálculo de polaridad del sentimiento para cada noticia
 - Extracción de entidades nombradas
 - Generación de métricas por empresa
 - Visualizaciones de tendencias temporales
 
-**Visualizaciones Generadas**
+**Visualizaciones Generadas**  
+
 El análisis produce tres visualizaciones principales:  
 
 - Tendencias de sentimiento por empresa a lo largo del tiempo
@@ -53,12 +55,12 @@ Los resultados detallados de este análisis se pueden encontrar en la carpeta re
 
 ## Aspectos Cubiertos del Proyecto
 
-✓ Análisis de texto avanzado con spaCy/NLTK
-✓ Visualizaciones interactivas con Altair
-✓ Análisis de sentimiento
-✓ Procesamiento de datos estructurados
-✓ Extracción de entidades y relaciones
-✓ Análisis estadístico y tendencias
+- Análisis de texto avanzado con spaCy/NLTK
+- Visualizaciones interactivas con Altair
+- Análisis de sentimiento
+- Procesamiento de datos estructurados
+- Extracción de entidades y relaciones
+- Análisis estadístico y tendencias
 
 **Flujo de Trabajo**
 
