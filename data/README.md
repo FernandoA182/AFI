@@ -12,7 +12,7 @@ Para este trabajo y análisis EDA se extrajeron los datos de 5 empresas que tien
 
 
 📊 **Análisis y Procesamiento**   
-El notebook "AFI.ipynb" adjunto en la carpeta src, además de contener el análisis EDA, tambien explica la descarga de estos datos provenientes de Yahoo Finance, mediante la librería "yfinance", su restructuración, y como fueron guardados. Además de su descripción, información general del data frame, estadisticas descriptivas, entre otros aspectos reelevantes de estos datos.
+El notebook "AFI.ipynb" adjunto en la carpeta src, además de contener el análisis EDA, tambien explica la descarga de estos datos provenientes de Yahoo Finance, mediante la librería `yfinance`, su restructuración, y como fueron guardados. Además de su descripción, información general del data frame, estadisticas descriptivas, entre otros aspectos reelevantes de estos datos.
 
 
 

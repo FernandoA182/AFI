@@ -27,9 +27,9 @@ Se realizó web scraping de noticias financieras a través de Finviz, enfocándo
 
 Se desarrolló un analizador avanzado de texto que procesa las noticias extraídas utilizando:  
 
-- TextBlob para análisis de sentimiento
-- SpaCy para procesamiento de lenguaje natural
-- Altair para visualizaciones interactivas
+- `TextBlob` para análisis de sentimiento
+- `SpaCy` para procesamiento de lenguaje natural
+- `Altair` para visualizaciones interactivas
 
 **Características principales del análisis:**  
 
@@ -53,33 +53,51 @@ Cada empresa mantiene una huella distintiva en términos de cobertura mediática
 Las implicaciones para el sector son sustanciales: la IA se ha convertido en el eje central de la narrativa tecnológica, mientras que el análisis financiero mantiene una influencia significativa en la percepción pública de estas empresas. Aunque se observa una volatilidad considerable en la percepción de las compañías, la tendencia general se mantiene positiva, sugiriendo una confianza subyacente en el sector tecnológico a pesar de las fluctuaciones a corto plazo. Este panorama refleja la madurez del sector y su capacidad para mantener el optimismo del mercado incluso en un entorno informativo altamente dinámico.
 </div>
 
-Los resultados detallados de este análisis se pueden encontrar en la carpeta resultados.  
 
 ## Aspectos Cubiertos del Proyecto
 
-- Análisis de texto avanzado con spaCy/NLTK
-- Visualizaciones interactivas con Altair
+- Análisis de texto avanzado con `spaCy/NLTK`
+- Visualizaciones interactivas con `Altair`
 - Análisis de sentimiento
 - Procesamiento de datos estructurados
 - Extracción de entidades y relaciones
 - Análisis estadístico y tendencias
 
-**Flujo de Trabajo**
 
+# 2do Web Scraping y Análisis de Sentimientos
+
+En el notebook "AFI.ipynb", a partir del punto 6, se realiza otro web scraping y análisis de sentimientos con las siguientes características:
+
+1. **Descarga de Noticias Financieras:**
+   - **Fuente:** Utilización de la API de NewsAPI para recopilar hasta 19 artículos diarios por empresa en un periodo de 7 días.
+   - **Proceso:** Implementación de web scraping inicial fallida en Yahoo Finance, seguida del uso exitoso de NewsAPI para asegurar la extracción de noticias relevantes.
+   - **Limpieza de Datos:** Eliminación de títulos inválidos, vacíos y duplicados, y conversión de fechas al formato adecuado.
+
+2. **Análisis de Sentimientos:**
+   - **Preprocesamiento de Texto:** Tokenización, eliminación de stopwords, limpieza de puntuación y normalización de texto.
+   - **Extensión del Léxico de VADER:** Incorporación de términos específicos del dominio financiero como `bullish`, `bearish`, `profit` y `loss` para mejorar la precisión del análisis.
+   - **Clasificación de Sentimientos:** Uso de VADER para categorizar los títulos de las noticias en **Positivo**, **Neutral** o **Negativo**.
+   - **Resultados:** Distribución de sentimientos con un 40% positivo, 35% neutral y 25% negativo, destacando tendencias positivas en Microsoft y Amazon, y negativas en Google.
+
+3. **Más adelante se continuará desarrollando los siguientes puntos:**
+   - **Correlación de Sentimientos con Rendimiento de Acciones**
+   - **Construcción de un Modelo Predictivo**
+   - **Desarrollo de una Plataforma para Usuarios**
+
+## Flujo de Trabajo
 - Análisis EDA
-- Extracción de noticias mediante web scraping
-- Preprocesamiento de textos
-- Análisis de sentimiento
-- Generación de visualizaciones
-- Documentación de resultados
+- Análisis de sentimientos
+  - Extracción de noticias mediante web scraping
 
-Para más detalles sobre la implementación y resultados específicos, consulte los notebooks correspondientes en la carpeta
+## Dónde encontrar información detallada de este proyecto
+* Los resultados detallados de este análisis se pueden encontrar en la carpeta resultados.  
+* Para más detalles sobre la implementación y resultados específicos, consulte los notebooks correspondientes en la carpeta src.
 
-
+## Colaboración en el proyecto  
+Este proyecto forma parte de la Maestría en Ciencias de los Datos de la Universidad de Guadalajara y constituye el proyecto final de la asignatura Desarrollo de Proyecto I impartida por el Mtro. Cuspinera Contreras.  
+Se desarrolló el proyecto titulado "Asistente Financiero Inteligente", el cual está siendo elaborado por Fernando Arévalo como tema de tesis. Asimismo, contó con la valiosa colaboración de Carmen Herrera, quien realizó importantes aportes en el análisis.
 
 # Estructura de repositorio
-
-El objetivo de este repositorio es implementar las buenas prácticas de acuerdo al paper ["Good Enough Practices in Scientific Computing"](https://arxiv.org/abs/1609.00037) por Greg Wilson, Jennifer Bryan, Karen Cranston, Justin Kitzes, Lex Nederbragt, Tracy K. Teal.
 
 La estructura que tiene nuestro repositorio es la siguiente:
     
