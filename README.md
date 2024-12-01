@@ -64,16 +64,35 @@ Los resultados detallados de este análisis se pueden encontrar en la carpeta re
 - Extracción de entidades y relaciones
 - Análisis estadístico y tendencias
 
-**Flujo de Trabajo**
 
+# 2do Web Scraping y Análisis de Sentimientos
+
+En el notebook "AFI.ipynb", a partir del punto 6, se realiza otro web scraping y análisis de sentimientos con las siguientes características:
+
+1. **Descarga de Noticias Financieras:**
+   - **Fuente:** Utilización de la API de NewsAPI para recopilar hasta 19 artículos diarios por empresa en un periodo de 7 días.
+   - **Proceso:** Implementación de web scraping inicial fallida en Yahoo Finance, seguida del uso exitoso de NewsAPI para asegurar la extracción de noticias relevantes.
+   - **Limpieza de Datos:** Eliminación de títulos inválidos, vacíos y duplicados, y conversión de fechas al formato adecuado.
+
+2. **Análisis de Sentimientos:**
+   - **Preprocesamiento de Texto:** Tokenización, eliminación de stopwords, limpieza de puntuación y normalización de texto.
+   - **Extensión del Léxico de VADER:** Incorporación de términos específicos del dominio financiero como `bullish`, `bearish`, `profit` y `loss` para mejorar la precisión del análisis.
+   - **Clasificación de Sentimientos:** Uso de VADER para categorizar los títulos de las noticias en **Positivo**, **Neutral** o **Negativo**.
+   - **Resultados:** Distribución de sentimientos con un 40% positivo, 35% neutral y 25% negativo, destacando tendencias positivas en Microsoft y Amazon, y negativas en Google.
+
+3. **Más adelante se continuará desarrollando los siguientes puntos:**
+   - **Correlación de Sentimientos con Rendimiento de Acciones**
+   - **Construcción de un Modelo Predictivo**
+   - **Desarrollo de una Plataforma para Usuarios**
+
+**Flujo de Trabajo** 
 - Análisis EDA
-- Extracción de noticias mediante web scraping
-- Preprocesamiento de textos
-- Análisis de sentimiento
-- Generación de visualizaciones
-- Documentación de resultados
+- Análisis de sentimientos
+  - Extracción de noticias mediante web scraping
 
-Para más detalles sobre la implementación y resultados específicos, consulte los notebooks correspondientes en la carpeta
+
+
+Para más detalles sobre la implementación y resultados específicos, consulte los notebooks correspondientes en la carpeta src.
 
 
 
